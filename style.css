@@ -65,29 +65,26 @@ nav ul li a {
     margin-right: 15px;
 }
 
-.content {
-    font-size: 22px;
-    align-items: center;
-}
-
-.content span {
-    font-size: 22px;
-}
-
-.content h1 {
-    font-size: 60px;
-    margin-top: 30px;
-    margin-bottom: 20px;
-}
-
-.content h1 {
-    font-size: 30px;
-    margin-top: 30px;
-    margin-bottom: 20px;
-}
-
 .center {
   margin: auto;
   width: 60%;
   padding: 10px;
 }
+
+.center span {
+    font-size: 22px;
+}
+
+.center h1 {
+    font-size: 60px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.center p {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+

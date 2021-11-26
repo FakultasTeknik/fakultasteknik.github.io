@@ -248,22 +248,6 @@ nav ul li a {
 }
 
 p {
-    font-family: "Bebas Neue", Arial Helvetica, serif;
-    font-size: 15vmin;
-    -webkit-text-stroke: 0px #0000004f;
-    -webkit-text-fill-color: #ffffff1c;
-    text-shadow: -3px -3px 3px #00000040;
-    background-repeat: repeat;
-    background-position: center center;
-    background-size: contain;
-    -webkit-text-fill-color: #002e422e;
+    font-size: 16vmin;
     -webkit-background-clip: text;
-    letter-spacing: 1px;
-    display: inline-flex;
-    width: 50vw;
-    height: 38vh;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    font-weight: bold;
 }

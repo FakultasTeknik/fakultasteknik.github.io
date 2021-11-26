@@ -17,7 +17,7 @@ body {
 }
 
 .container {
-    width: 600px;
+    width: 800px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -141,6 +141,15 @@ body {
         0 0 15px #1eff45,
         0 0 35px #1eff45,
         0 0 60px #1eff45;
+}
+
+.container .btn:nth-child(4)::before,
+.container .btn:nth-child(4)::after {
+    background: #fdf904;
+    box-shadow: 0 0 5px #fdf904,
+        0 0 15px #fdf904,
+        0 0 35px #fdf904,
+        0 0 60px #fdf904;
 }
 
 * {

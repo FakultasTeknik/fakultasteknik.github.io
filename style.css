@@ -233,18 +233,13 @@ nav ul li a {
 }
 
 .api {
-    width: 100vw;
-    height: 24vh;
     background-image: url(https://c.tenor.com/5RKB-LuSHb0AAAAC/fire.gif);
-    -webkit-text-fill-color: #cd0e0054;
+    -webkit-text-fill-color: #f8170754;
 }
 
 .gelembung {
-    width: 100vw;
-    height: 24vh;
-    background-image: url(https://c.tenor.com/OPMJAHXKIU0AAAAd/looking-water.gif);
-    -webkit-text-fill-color: #9c27b026;
-    text-shadow: -3px -3px 10px #9c27b030, 3px 3px 10px #0000004f;
+   background-image: url(https://c.tenor.com/OPMJAHXKIU0AAAAd/looking-water.gif);
+    -webkit-text-fill-color: #50911426;
 }
 
 p {
